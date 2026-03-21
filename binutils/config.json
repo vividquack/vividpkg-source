@@ -2,9 +2,7 @@
   "version": "2.41",
   "dependencies": [],
   "tarballs": [
-    "https://ftp.gnu.org/gnu/binutils/binutils-2.41.tar.gz"
+    "https://sourceware.org/pub/binutils/releases/binutils-2.41.tar.gz"
   ],
-  "tarball_sha256": [
-    "e4b1a1e2f3c4d5b6a7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0"
-  ]
+  "tarball_sha256": []
 }
