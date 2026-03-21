@@ -3,7 +3,7 @@
   "version": "3.12",
   "dependencies": [],
   "tarballs": [
-    "https://github.com/vividquack/vividpkg-source/releases/download/neovim/neovim-bundle.tar.gz"
+    "https://github.com/vividquack/vividpkg-source/releases/download/python/python-bundle.tar.gz"
   ],
   "tarball_sha256": [
   ]
