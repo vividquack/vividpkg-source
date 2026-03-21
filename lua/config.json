@@ -1,0 +1,10 @@
+
+{
+  "version": "lua5.4",
+  "dependencies": [],
+  "tarballs": [
+    "https://github.com/vividquack/vividpkg-source/releases/download/lua/lua-bundle.tar.gz"
+  ],
+  "tarball_sha256": [
+  ]
+}
