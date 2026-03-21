@@ -1,1 +1,9 @@
-
+{
+  "version": "1",
+  "dependencies": [],
+  "tarballs": [
+    "https://github.com/vividquack/vividpkg-source/releases/download/jdk/jdk-bundle.tar.gz"
+  ],
+  "tarball_sha256": [
+  ]
+}
