@@ -1,0 +1,10 @@
+
+{
+  "version": "3.12",
+  "dependencies": [],
+  "tarballs": [
+    "https://github.com/vividquack/vividpkg-source/releases/download/neovim/neovim-bundle.tar.gz"
+  ],
+  "tarball_sha256": [
+  ]
+}
