@@ -4,9 +4,8 @@
     "binutils"
   ],
   "tarballs": [
-    "https://ftp.gnu.org/gnu/gcc/gcc-13.2.0/gcc-13.2.0.tar.gz"
+    "https://gnu.mirrorservice.org/gcc/gcc-13.2.0/gcc-13.2.0.tar.gz"
   ],
   "tarball_sha256": [
-    "e3b3f2b3f7c1a9d8d6c7a2d4b5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4"
   ]
 }
