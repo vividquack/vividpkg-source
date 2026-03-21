@@ -1,1 +1,11 @@
 
+{
+  "version": "9.1.697",
+  "dependencies": [],
+  "tarballs": [
+    "https://github.com/vividquack/vividpkg-source/raw/refs/heads/main/neovim/neovim-bundle.tar.gz"
+  ],
+  "tarball_sha256": [
+    "2660d86493e7d089b79d93c455770ab2f85233a07783fe497e641176531e99a1"
+  ]
+}
