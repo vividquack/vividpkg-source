@@ -1,11 +1,10 @@
 
 {
   "version": "9.1.697",
-  "dependencies": [],
+  "dependencies": ["lua"],
   "tarballs": [
-    "https://github.com/vividquack/vividpkg-source/releases/download/neovim/neovim-bundle.tar.gz"
+    "https://github.com/vividquack/vividpkg-source/raw/refs/heads/main/nvim/nvim.tar.gz"
   ],
   "tarball_sha256": [
-    "2660d86493e7d089b79d93c455770ab2f85233a07783fe497e641176531e99a1"
   ]
 }
