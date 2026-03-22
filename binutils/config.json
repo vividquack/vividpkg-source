@@ -2,9 +2,8 @@
   "version": "2.42",
   "dependencies": [],
   "tarballs": [
-    "https://github.com/vividquack/vividpkg-source/raw/refs/heads/main/binutils/binutils-bundle.tar.gz"
+    "https://github.com/vividquack/vividpkg-source/releases/download/packages/binutils.tar.gz"
   ],
   "tarball_sha256": [
-    "fdbb0ef521fa61b9ce59465d3c602d2f0243bf3642e384c28479ea098bfb2899"
   ]
 }

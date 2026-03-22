@@ -4,7 +4,7 @@
     "binutils"
   ],
   "tarballs": [
-    "https://github.com/vividquack/vividpkg-source/raw/refs/heads/main/gcc/gcc.tar.gz"
+    "https://github.com/vividquack/vividpkg-source/releases/download/packages/gcc.tar.gz"
   ],
   "tarball_sha256": [
   ]
